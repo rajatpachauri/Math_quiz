@@ -1,2 +1,2 @@
 # Math_quiz
-It is a math quiz dextop application using Jswing
+It is a math quiz desktop application using Jswing
